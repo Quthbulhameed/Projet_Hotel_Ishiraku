@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hotel_Ishiraku:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ead35078-17dd-488b-8d76-eaed172d85ac" name="Changes" comment="envoie7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/DAO/EmployesDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/DAO/EmployesDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/DAO/LavageDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/DAO/LavageDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/Mysqlconnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/Mysqlconnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/employes/EmployesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/employes/EmployesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/lavage/LavageLaveurController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/lavage/LavageLaveurController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/lavage/LavageReceptionnisteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/lavage/LavageReceptionnisteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/sommaire/SommaireReceptionnisteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/sommaire/SommaireReceptionnisteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/ConsulterLavageLaveur.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/ConsulterLavageLaveur.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/ConsulterLavageReceptionniste.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/ConsulterLavageReceptionniste.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/SommaireReceptionniste.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/SommaireReceptionniste.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/ConsulterLavageLaveur.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/ConsulterLavageLaveur.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/ConsulterLavageReceptionniste.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/ConsulterLavageReceptionniste.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/DAO/ClientDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/DAO/ClientDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/SommaireReceptionniste.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/SommaireReceptionniste.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/client/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/client/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/client/client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/client/client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/lavage/LavageLaveurController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/lavage/LavageLaveurController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/lavage/LavageReceptionnisteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/lavage/LavageReceptionnisteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/login/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/login/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/mysqlconnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/mysqlconnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/sommaire/SommaireReceptionnisteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/hotel_ishiraku/sommaire/SommaireReceptionnisteController.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e926ecd7-6d63-44d4-ac13-98010740fb96" />
+        <option name="url" value="https://github.com/DjibrilNaji/yesyLaravel.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/lavage/LavageReceptionnisteController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/Reservation.fxml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/reservation/ReservationController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/com/example/hotel_ishiraku/SommaireReceptionniste.fxml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/hotel_ishiraku/sommaire/SommaireReceptionnisteController.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="24C9LON0Ejofy1x01giE1ZT86sH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../wamp64/www/oteloprojet7" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37172773" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Djibril\OneDrive\Hotel_Ishiraku\.idea" />
+      <recent name="C:\Users\Djibril\OneDrive\Documents\Workspace\Hotel_Ishiraku\src\main\resources\com\example\hotel_ishiraku" />
+      <recent name="C:\Users\Djibril\OneDrive\Documents\Workspace\Hotel_Ishiraku\src\main\java\com\example\hotel_ishiraku" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Djibril\OneDrive\Hotel_Ishiraku\out\artifacts\Hotel_Ishiraku_jar" />
+      <recent name="C:\Users\Djibril\OneDrive\Documents\Workspace\Hotel_Ishiraku\src\main\resources\com\example\hotel_ishiraku\fxml" />
+      <recent name="C:\Users\Djibril\OneDrive\Documents\Workspace\Hotel_Ishiraku\src\main\resources\com\example\hotel_ishiraku" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.hotel_ishiraku" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.hotel_ishiraku" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Hotel_Ishiraku">
+    <configuration name="Hotel_Ishiraku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hotel_ishiraku.Hotel_Ishiraku" />
+      <module name="Hotel_Ishiraku" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hotel_ishiraku.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hotel_Ishiraku.jar" type="JarApplication" temporary="true">
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Hotel_Ishiraku_jar/Hotel_Ishiraku.jar" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Hotel_Ishiraku" />
+      <item itemvalue="JAR Application.Hotel_Ishiraku.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hotel_Ishiraku" />
+        <item itemvalue="JAR Application.Hotel_Ishiraku.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead35078-17dd-488b-8d76-eaed172d85ac" name="Changes" comment="" />
+      <created>1643123645903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643123645903</updated>
+      <workItem from="1643123647412" duration="2358000" />
+      <workItem from="1643153720529" duration="563000" />
+      <workItem from="1643154354651" duration="967000" />
+      <workItem from="1643155712613" duration="691000" />
+      <workItem from="1643156446730" duration="239000" />
+      <workItem from="1643186789778" duration="7438000" />
+      <workItem from="1643201000207" duration="651000" />
+      <workItem from="1643201716694" duration="6672000" />
+      <workItem from="1643273823382" duration="2000" />
+      <workItem from="1643278985407" duration="666000" />
+      <workItem from="1643632095776" duration="367000" />
+      <workItem from="1643636119725" duration="12000" />
+      <workItem from="1644062711898" duration="2343000" />
+      <workItem from="1644401665995" duration="1936000" />
+      <workItem from="1644411824093" duration="139000" />
+      <workItem from="1644494664196" duration="603000" />
+      <workItem from="1644918937922" duration="229000" />
+      <workItem from="1646477854751" duration="13000000" />
+      <workItem from="1646598111220" duration="5147000" />
+      <workItem from="1646638685190" duration="188000" />
+      <workItem from="1646725160272" duration="1863000" />
+      <workItem from="1646730170147" duration="5754000" />
+      <workItem from="1646815064808" duration="5497000" />
+      <workItem from="1646838534329" duration="2000" />
+      <workItem from="1646898733463" duration="1014000" />
+      <workItem from="1646909696211" duration="2743000" />
+      <workItem from="1646986326292" duration="4763000" />
+      <workItem from="1646997411895" duration="2219000" />
+      <workItem from="1647004248670" duration="1792000" />
+      <workItem from="1647006436072" duration="5000" />
+      <workItem from="1647537279608" duration="7468000" />
+      <workItem from="1647612149167" duration="475000" />
+      <workItem from="1647612746770" duration="1000" />
+      <workItem from="1647614297569" duration="4000" />
+      <workItem from="1647616126269" duration="1193000" />
+      <workItem from="1647809111793" duration="17000" />
+      <workItem from="1647810094845" duration="684000" />
+      <workItem from="1647848728675" duration="7000" />
+      <workItem from="1647850210959" duration="1573000" />
+      <workItem from="1648021550606" duration="750000" />
+      <workItem from="1648023361463" duration="74000" />
+      <workItem from="1648024035166" duration="83000" />
+      <workItem from="1648024317104" duration="55000" />
+      <workItem from="1648029111710" duration="52000" />
+      <workItem from="1648030709103" duration="3716000" />
+      <workItem from="1648040129185" duration="35000" />
+      <workItem from="1648072885026" duration="1413000" />
+      <workItem from="1648108690633" duration="1283000" />
+      <workItem from="1648111813751" duration="726000" />
+      <workItem from="1648112771781" duration="68000" />
+      <workItem from="1648120637400" duration="1000" />
+      <workItem from="1648205314675" duration="965000" />
+      <workItem from="1648501952992" duration="594000" />
+      <workItem from="1648502695235" duration="16000" />
+      <workItem from="1648538266549" duration="3384000" />
+      <workItem from="1648575841871" duration="27000" />
+      <workItem from="1648577867836" duration="5343000" />
+      <workItem from="1648584828755" duration="234000" />
+      <workItem from="1648622205789" duration="9322000" />
+      <workItem from="1648644624368" duration="10000" />
+      <workItem from="1648668857932" duration="3291000" />
+      <workItem from="1648709066193" duration="13861000" />
+      <workItem from="1648749797571" duration="3286000" />
+      <workItem from="1648758138091" duration="1466000" />
+      <workItem from="1648760502266" duration="87000" />
+      <workItem from="1648813259867" duration="7685000" />
+      <workItem from="1648823012558" duration="195000" />
+      <workItem from="1648824340387" duration="993000" />
+      <workItem from="1648825472051" duration="1366000" />
+      <workItem from="1649054985962" duration="472000" />
+      <workItem from="1649141207331" duration="69000" />
+      <workItem from="1649366706459" duration="1465000" />
+      <workItem from="1649947609750" duration="187000" />
+      <workItem from="1649963696068" duration="602000" />
+      <workItem from="1649966045275" duration="643000" />
+      <workItem from="1650005001764" duration="2729000" />
+      <workItem from="1650019721111" duration="6841000" />
+      <workItem from="1650052126744" duration="13000" />
+      <workItem from="1650613534124" duration="99000" />
+      <workItem from="1650650138934" duration="1725000" />
+      <workItem from="1650973985035" duration="55000" />
+      <workItem from="1651076100989" duration="1968000" />
+      <workItem from="1651133997589" duration="8000" />
+      <workItem from="1652007472461" duration="823000" />
+    </task>
+    <task id="LOCAL-00001" summary="envoie">
+      <created>1643155903646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643155903646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="envoie">
+      <created>1643189278491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643189278491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="envoie">
+      <created>1643189634947</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643189634947</updated>
+    </task>
+    <task id="LOCAL-00004" summary="envoie2">
+      <created>1643201775452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643201775452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="envoie2">
+      <created>1643207247729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643207247729</updated>
+    </task>
+    <task id="LOCAL-00006" summary="envoie3">
+      <created>1643279569583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643279569583</updated>
+    </task>
+    <task id="LOCAL-00007" summary="envoie3">
+      <created>1644918947361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644918947361</updated>
+    </task>
+    <task id="LOCAL-00008" summary="envoie4">
+      <created>1646600908115</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646600908115</updated>
+    </task>
+    <task id="LOCAL-00009" summary="envoie5">
+      <created>1646603713330</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646603713330</updated>
+    </task>
+    <task id="LOCAL-00010" summary="envoie5">
+      <created>1646821692089</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646821692089</updated>
+    </task>
+    <task id="LOCAL-00011" summary="envoie5">
+      <created>1646899653267</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646899653267</updated>
+    </task>
+    <task id="LOCAL-00012" summary="envoie5">
+      <created>1647553454081</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1647553454081</updated>
+    </task>
+    <task id="LOCAL-00013" summary="envoie5">
+      <created>1647553465137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1647553465137</updated>
+    </task>
+    <task id="LOCAL-00014" summary="envoie5">
+      <created>1647612431477</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1647612431477</updated>
+    </task>
+    <task id="LOCAL-00015" summary="envoie6">
+      <created>1648205662073</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1648205662073</updated>
+    </task>
+    <task id="LOCAL-00016" summary="envoie6">
+      <created>1648541643408</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648541643408</updated>
+    </task>
+    <task id="LOCAL-00017" summary="envoie7">
+      <created>1648584441164</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1648584441164</updated>
+    </task>
+    <task id="LOCAL-00018" summary="envoie7">
+      <created>1648636006629</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1648636006629</updated>
+    </task>
+    <task id="LOCAL-00019" summary="envoie7">
+      <created>1648758247989</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1648758247989</updated>
+    </task>
+    <task id="LOCAL-00020" summary="envoie7">
+      <created>1649058369455</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1649058369455</updated>
+    </task>
+    <task id="LOCAL-00021" summary="envoie7">
+      <created>1649058694222</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649058694222</updated>
+    </task>
+    <task id="LOCAL-00022" summary="envoie7">
+      <created>1649059215583</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1649059215583</updated>
+    </task>
+    <task id="LOCAL-00023" summary="envoie7">
+      <created>1650007064266</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1650007064266</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="envoie" />
+    <MESSAGE value="envoie2" />
+    <MESSAGE value="envoie3" />
+    <MESSAGE value="envoie4" />
+    <MESSAGE value="envoie5" />
+    <MESSAGE value="envoie6" />
+    <MESSAGE value="envoie7" />
+    <option name="LAST_COMMIT_MESSAGE" value="envoie7" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
