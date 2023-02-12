@@ -16,7 +16,7 @@ De plus, comme la place de parking est un supplément de la chambre, l’hôtel 
 
 
 ### Langages utilisé:
--	JAVA (version : 16.0.2)
+-	JAVA 
 -	Fxml
--	Données: BDD MySQL (version:5.7.31)
+-	Données: BDD MySQL 
 
